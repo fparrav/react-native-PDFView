@@ -1,5 +1,5 @@
 {
-  "name": "@fparrav/react-native-pdfview",
+  "name": "@kosx/react-native-pdfview",
   "version": "1.0.0",
   "description": "React Native PDF viewer — fork con soporte 16KB page size Android",
   "main": "lib/index.js",
@@ -56,7 +56,6 @@
     "ReactNativeViewPDF/*.h",
     "ReactNativeViewPDF/*.m"
   ],
-  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fparrav/react-native-PDFView.git"
