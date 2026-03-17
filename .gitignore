@@ -48,3 +48,6 @@ project.xcworkspace
 #
 build/
 .gradle
+
+# AI tooling
+CLAUDE.md

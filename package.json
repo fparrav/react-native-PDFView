@@ -1,7 +1,7 @@
 {
-  "name": "react-native-view-pdf",
-  "version": "0.14.0",
-  "description": "React native Pdf viewer implementation",
+  "name": "@fparrav/react-native-pdfview",
+  "version": "1.0.0",
+  "description": "React Native PDF viewer — fork con soporte 16KB page size Android",
   "main": "lib/index.js",
   "scripts": {
     "prepare": "npm run build",
@@ -59,10 +59,10 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/rumax/react-native-PDFView.git"
+    "url": "git+https://github.com/fparrav/react-native-PDFView.git"
   },
   "bugs": {
-    "url": "https://github.com/rumax/react-native-PDFView/issues"
+    "url": "https://github.com/fparrav/react-native-PDFView/issues"
   },
-  "homepage": "https://github.com/rumax/react-native-PDFView#readme"
+  "homepage": "https://github.com/fparrav/react-native-PDFView#readme"
 }
